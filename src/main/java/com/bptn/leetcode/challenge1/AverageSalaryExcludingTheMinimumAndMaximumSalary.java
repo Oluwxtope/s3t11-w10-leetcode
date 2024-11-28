@@ -1,6 +1,6 @@
 package com.bptn.leetcode.challenge1;
 
-class Solution {
+class AverageSalaryExcludingTheMinimumAndMaximumSalary {
     public double average(int[] salary) {
         int maxSalary = salary[0]; // Initialize a variable to track the maximum salary
         int minSalary = salary[0]; // Initialize a variable to track the minimum salary
