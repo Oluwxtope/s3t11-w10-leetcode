@@ -18,3 +18,15 @@ Link: [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode
 - At the end, remove the maximum and minimum salary from the sum of salaries and divide it by the length of salaries - 2 (we removed 2 salaries, min and max) to get the average salary excluding the mimum and maximum salaries
 
 ![Accepted solution of Leetcode 1491: Average Salary Excluding the Minimum and Maximum Salary](./images/challenge1.jpg)
+
+
+## Challenge 2: Squares of a Sorted Array
+Link: [Squares of a sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+
+**Solution**
+- Create a stream from the array to enable the use of operations like map(), sorted().
+- Call map() to square each element of the array
+- Call sorted() to sort the squared value in ascending order
+- Call to Array() to convert the stream back to an array 
+
+![Accepted solution of Leetcode 977:  Squares of a Sorted Array](./images/challenge2.png)
