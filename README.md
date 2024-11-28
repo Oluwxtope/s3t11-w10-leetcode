@@ -17,4 +17,4 @@ Link: [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode
     - If the current salary is greater than the maximum salary, update the maximum salary variable
 - At the end, remove the maximum and minimum salary from the sum of salaries and divide it by the length of salaries - 2 (we removed 2 salaries, min and max) to get the average salary excluding the mimum and maximum salaries
 
-![Accepted solution of Leetcode 1491: Average Salary Excluding the Minimum and Maximum Salary](https://github.com/@oluwxtope/s3t11-w10-leetcode/blob/main/images/challenge1.jpg?raw=true)
+![Accepted solution of Leetcode 1491: Average Salary Excluding the Minimum and Maximum Salary](./images/challenge1.jpg)
