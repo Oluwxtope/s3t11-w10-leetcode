@@ -5,8 +5,8 @@
 Members: **(Emmanuel) Oluwatope Alofe** [@oluwxtope](https://github.com/oluwxtope), **(Sophie) Anne-Sophie Simon** [@annesophiesimon](https://github.com/annesophiesimon), **Nimi Bara-Hart** [@nimibara-hart](https://github.com/NimiBara-hart)
 
 
-## Challenge 1
-[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
+## Challenge 1: Average Salary Excluding the Minimum and Maximum Salary
+Link: [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 
 **Solution**
 - Initialize variables to keep track of the minimum salary, maximum
