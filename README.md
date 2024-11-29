@@ -70,3 +70,17 @@ Link: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     - Otherwise, set res to next node
 
 ![Accepted solution of Leetcode 2: Add Two Numbers](./images/challenge4.png)
+
+## Challenge 5: Merge Two Sorted Lists
+
+Link: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+**Solution**
+
+- Create a dummy node to simplify handling the merged list
+- Compare the values of the nodes from both lists
+- If one of the lists is not yet empty, append it to the merged list
+- Return the merged list, which starts after the dummy node
+
+
+![Accepted solution of Leetcode 21:  Merge Two Sorted Lists](./images/challenge5.png)
