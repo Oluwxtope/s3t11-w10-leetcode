@@ -1,4 +1,4 @@
-package com.bptn.leetcode.challenge4;
+package com.bptn.leetcode.challenge5;
 
 public class ListNode {
     int val;
@@ -17,3 +17,4 @@ public class ListNode {
 
     }
 }
+
