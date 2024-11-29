@@ -37,6 +37,18 @@ Link: [Squares of a sorted Array](https://leetcode.com/problems/squares-of-a-sor
 
 ![Accepted solution of Leetcode 977:  Squares of a Sorted Array](./images/challenge2.png)
 
+## Challenge 3: Missing Number
+
+Link: [Missing Number](https://leetcode.com/problems/missing-number/)
+
+**Solution**
+
+- Calculate the total sum of numbers from 0 to n
+- Calculate the sum of numbers in the array
+- The missing number is the difference between the total sum and the sum of array elements
+
+![Accepted solution of Leetcode 268:  Missing Number](./images/challenge3.png)
+
 ## Challenge 4: Add Two Numbers
 
 Link: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
